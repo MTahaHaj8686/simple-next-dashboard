@@ -3,6 +3,7 @@ import { inter } from "@/app/ui/fonts";
 import AnimatedLayout from "./animeLayout";
 import PageTransition from "./PageTransition";
 
+
 export default function RootLayout({
   children,
 }: {
